@@ -40,7 +40,7 @@ NLFTs (Next-Level Frameworks & Tech Stack) adalah komunitas yang berfokus pada e
 
 ## 📚 Dokumentasi
 Anda dapat menemukan panduan lengkap, aturan komunitas, dan tutorial di situs dokumentasi kami:
-👉 [**nlfts.com/docs**](https://nlfts.vercel.app/docs)
+👉 [**nlfts.dev/docs**](https://nlfts.dev/docs)
 
 ## 🛠️ Tech Stack Kami
 Kami sangat menyukai teknologi yang cepat, scalable, dan modern:
@@ -58,10 +58,10 @@ Kami selalu membuka pintu bagi siapa saja yang ingin berkontribusi!
 
 ## 💬 Hubungi Kami
 Ingin mengobrol atau punya pertanyaan?
-- **Website:** [nlfts.com](https://nlfts.vercel.app)
-- **Discord:** [nlfts.com/connected/discord](https://nlfts.vercel.app/connected/discord)
-- **GitHub:** [github.com/nlfts](https://github.com/nlfts)
-- **FAQ:** [nlfts.com/faq](https://nlfts.vercel.app/faq)
+- **Website:** [nlfts.dev](https://nlfts.dev)
+- **Discord:** [nlfts.dev/connected/discord](https://nlfts.dev/connected/discord)
+- **GitHub:** [github.dev/nlfts](https://github.com/nlfts)
+- **FAQ:** [nlfts.dev/faq](https://nlfts.dev/faq)
 
 ---
 Dikelola dengan ❤️ oleh tim **NLFTs**. Bergabunglah dengan kami dan mari buat sesuatu yang luar biasa!
