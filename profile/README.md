@@ -34,7 +34,7 @@ Selamat datang di repositori resmi **NLFTs Community**! Kami adalah wadah kolabo
 
 Jika anda tertarik pada Karya-karya kami Pertimbangkan untuk mendukung kami
 
-- Site : [www.nlfts.dev]('https://nlfts.dev')
-- Service : [www.nlfts.dev/enterprise]('https://nlfts.dev/enterprise')
-- Developer Program [developer.nlfts.dev]('https://developer.nlfts.dev)
+- Site : www.nlfts.dev
+- Service : www.nlfts.dev/enterprise
+- Developer Program developer.nlfts.dev
 
