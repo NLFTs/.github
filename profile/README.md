@@ -30,38 +30,11 @@
 
 Selamat datang di repositori resmi **NLFTs Community**! Kami adalah wadah kolaboratif bagi para pengembang, kreator, dan antusias teknologi yang ingin belajar, berbagi, dan tumbuh bersama dalam ekosistem pengembangan web modern.
 
-## Tentang NLFTs
-NLFTs (Next-Level Frameworks & Tech Stack) adalah komunitas yang berfokus pada eksplorasi teknologi terbaru, praktik terbaik dalam pemrograman, dan pembangunan proyek berbasis komunitas. Kami percaya bahwa kolaborasi adalah kunci untuk inovasi.
-
-## 🎯 Visi & Misi
-- **Edukasi:** Menyediakan sumber daya belajar yang dapat diakses oleh semua tingkat keahlian.
-- **Kolaborasi:** Membangun proyek open-source yang bermanfaat bagi banyak orang.
-- **Networking:** Menghubungkan talenta berbakat di seluruh Indonesia (dan dunia).
-
-## 📚 Dokumentasi
-Anda dapat menemukan panduan lengkap, aturan komunitas, dan tutorial di situs dokumentasi kami:
-👉 [**nlfts.dev/docs**](https://nlfts.dev/docs)
-
-## 🛠️ Tech Stack Kami
-Kami sangat menyukai teknologi yang cepat, scalable, dan modern:
-- **Frontend:** Next.js, Nuxt.js
-- **Backend:** Node.js, Supabase, Laravel 12
-- **Deployment:** Vercel, Sherding
-
-## 🤝 Cara Berkontribusi
-Kami selalu membuka pintu bagi siapa saja yang ingin berkontribusi!
-1. **Fork** repositori ini.
-2. Buat **Branch** baru (`git checkout -b fitur-baru`).
-3. Lakukan **Commit** perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
-4. **Push** ke branch tersebut (`git push origin fitur-baru`).
-5. Buat **Pull Request**.
-
-## 💬 Hubungi Kami
-Ingin mengobrol atau punya pertanyaan?
-- **Website:** [nlfts.dev](https://nlfts.dev)
-- **Discord:** [nlfts.dev/connected/discord](https://nlfts.dev/connected/discord)
-- **GitHub:** [github.dev/nlfts](https://github.com/nlfts)
-- **FAQ:** [nlfts.dev/faq](https://nlfts.dev/faq)
-
 ---
-Dikelola dengan ❤️ oleh tim **NLFTs**. Bergabunglah dengan kami dan mari buat sesuatu yang luar biasa!
+
+Jika anda tertarik pada Karya-karya kami Pertimbangkan untuk mendukung kami
+
+- Site : [www.nlfts.dev]('https://nlfts.dev')
+- Service : [www.nlfts.dev/enterprise]('https://nlfts.dev/enterprise')
+- Developer Program [developer.nlfts.dev]('https://developer.nlfts.dev)
+
