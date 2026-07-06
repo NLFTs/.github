@@ -1,5 +1,4 @@
-# NLFTs Community
-
+<img src="/img/banner.png" alt="banner">
 <p>
   <a href="#"><img src="https://img.shields.io/badge/npm-v1.0.0-28CF8D?style=flat&colorA=18181B" alt="NPM Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/clones-2.5k/mo-28CF8D?style=flat&colorA=18181B" alt="Clones"></a>
@@ -26,8 +25,6 @@
   <a href="#"><img src="https://img.shields.io/badge/C%23-18181B?style=flat&logo=c-sharp&logoColor=239120" alt="C Sharp"></a>
   <a href="#"><img src="https://img.shields.io/badge/GDScript-18181B?style=flat&logo=godot-engine&logoColor=white" alt="GDScript"></a>
 </p>
-<img src="/img/banner.png" alt="banner">
-
 
 Selamat datang di repositori resmi **NLFTs Community**! Kami adalah wadah kolaboratif bagi para pengembang, kreator, dan antusias teknologi yang ingin belajar, berbagi, dan tumbuh bersama dalam ekosistem pengembangan web modern.
 
