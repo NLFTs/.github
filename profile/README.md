@@ -32,7 +32,3 @@ Selamat datang di repositori resmi **NLFTs Community**! Kami adalah wadah kolabo
 
 Jika anda tertarik pada Karya-karya kami Pertimbangkan untuk mendukung kami
 
-- Site : https://nlfts.dev
-- Service : https://nlfts.dev/enterprise
-- Developer Program https://developer.nlfts.dev
-
